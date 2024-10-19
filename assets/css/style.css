@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+ul { list-style-type: none; }
+li { margin: 5px 0; }
+.completed { text-decoration: line-through; }
